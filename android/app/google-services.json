@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951631820418",
+    "firebase_url": "https://qlbh-527f4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "qlbh-527f4",
+    "storage_bucket": "qlbh-527f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951631820418:android:e0b175b8cae2d60caee69b",
+        "android_client_info": {
+          "package_name": "com.example.appvideoshort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951631820418-ko9v1n2cbsfmqhiec63776kod9cf06h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrm55ZKOaaqWyTvc-kAKGz8C5xbhsbJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951631820418-ko9v1n2cbsfmqhiec63776kod9cf06h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
